@@ -1,0 +1,6 @@
+*.o
+example
+*.txt
+list
+vector
+.vscode
